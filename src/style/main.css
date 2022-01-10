@@ -1,0 +1,14 @@
+.itemlist ul{
+    margin: 0 auto;
+  }
+  
+  .itemlist ul li {
+    display: flex;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-10%)
+  }
+  .itemlist ul li * {
+    padding: 0 10px;
+  }
