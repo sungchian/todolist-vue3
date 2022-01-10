@@ -1,27 +1,4 @@
 # vue3
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ###demo
-gogo
+![image](https://github.com/sungchian/todolist-vue3/blob/pages/%E6%88%AA%E5%9C%96%202022-01-10%20%E4%B8%8B%E5%8D%886.08.29.png)
